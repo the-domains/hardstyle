@@ -1,0 +1,29 @@
+name: Hardstyle
+favicon: null
+layout_spectrum: 0.6501023001037538
+typography_spectrum: 0.5752082143444568
+title: Hardstyle Israel
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#eb6212'
+    - '#fff100'
+    - '#0e0000'
+    - '#e70012'
+    - '#dfdcdd'
+  brandStrength: 0.875
+  lightness: 0.6557750012725592
+  saturation: 0.6452372567728162
+  rhythmicContrast: 0.7341914570424706
+purpose: []
